@@ -3,7 +3,8 @@ import React from 'react'
 const Demo = () => {
   return (
     <div>
-    <h1>this Demo component</h1>
+    <h1>this Demo</h1>
+    <p>this is an paragraph</p>
     </div>
   )
 }
